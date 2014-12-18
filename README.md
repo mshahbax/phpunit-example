@@ -16,3 +16,7 @@ Any PHP version which supports PHP_unit.
 Download composer and place the composer.phar file in the project root directory. Then run the command below.
 
 php composer.phar install
+
+
+
+*Note*: You are welcome to contribute to help the beginners. 
