@@ -10,7 +10,7 @@ class FileTest extends PHPUnit_Framework_TestCase
         if (!is_dir(self::$dir)) {
             mkdir(self::$dir);
         }
-        require_once ('..\src\File.php');
+        require_once ('src\File.php');
     }
 
     public function testSaveToFile()
